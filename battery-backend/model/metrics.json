@@ -1,0 +1,10 @@
+{
+  "random_forest": {
+    "accuracy": 0.9891304347826086,
+    "f1_macro": 0.975983436853002
+  },
+  "gradient_boosting": {
+    "accuracy": 0.967391304347826,
+    "f1_macro": 0.9253539253539254
+  }
+}
