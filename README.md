@@ -97,8 +97,8 @@ Performance metrics are stored and evaluated to ensure reliable predictions.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Rithu-YJ/battery-health-monitor.git
+cd battery-health-monitor
 ```
 
 ---
@@ -145,26 +145,6 @@ Frontend application will start on the local development server.
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-Add screenshots here.
-
-```text
-screenshots/dashboard.png
-```
-
-### Prediction Results
-
-Add screenshots here.
-
-```text
-screenshots/prediction.png
-```
-
----
-
 ## Future Enhancements
 
 * IoT device integration
@@ -193,7 +173,7 @@ This project demonstrates:
 
 Developed by Rithu Y J
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Rithu-YJ
 
 ---
 
